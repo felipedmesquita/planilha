@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description   = %q{Parses xlsx files and returns a hash with the data}
   s.homepage      = "https://github.com/felipedmesquita/planilha"
   s.license       = "MIT"
-  s.metadata["homepage_uri"] = s.homepage
+
   s.metadata["source_code_uri"] = "https://github.com/felipedmesquita/planilha"
 
   s.files         = Dir["lib/**/*"]
