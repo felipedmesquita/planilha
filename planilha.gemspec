@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.authors = ["Felipe Mesquita"]
   s.email = "felipemesquita@hey.com"
   s.summary = "xlsx parsing with no configuration"
-  s.description = "Parses xlsx files and returns a hash with the data"
+  s.description = "Turns `Roo::Excelx.new(file).sheet(0).parse(headers: true, clean: true)[1..]` into `Planilha.read(file)`"
   s.homepage = "https://github.com/felipedmesquita/planilha"
   s.license = "MIT"
 

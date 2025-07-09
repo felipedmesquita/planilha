@@ -1,5 +1,7 @@
 # Planilha
 
+A spectacularly tiny Roo wrapper
+
 ```ruby
 gem "planilha"
 ```
