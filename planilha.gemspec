@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "planilha"
-  s.version = "0.0.2"
+  s.version = "0.0.3"
   s.authors = ["Felipe Mesquita"]
   s.email = "felipemesquita@hey.com"
   s.summary = "xlsx parsing with no configuration"
